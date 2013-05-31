@@ -5,4 +5,6 @@ DesignPattern
 
 * 策略模式(Strategy)  
 
-* 观察者模式(Observer)
+* 观察者模式(Observer) 
+
+* 装饰者模式(Decorator)
