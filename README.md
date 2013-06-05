@@ -10,3 +10,5 @@ DesignPattern
 * 装饰者模式(Decorator)
 
 * 简单工厂模式(SimpleFactory)
+
+* 工厂模式(Factory)
