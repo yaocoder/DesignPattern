@@ -8,3 +8,5 @@ DesignPattern
 * 观察者模式(Observer) 
 
 * 装饰者模式(Decorator)
+
+* 简单工厂模式(SimpleFactory)
