@@ -1,5 +1,5 @@
 /*
-�򵥹���ģʽ�� 
+简单工厂模式
 */
 #include <iostream>
 #include <string>
