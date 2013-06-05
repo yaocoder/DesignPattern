@@ -1,5 +1,5 @@
 /*
-工厂模式： 
+宸ュ巶妯″紡
 */
 #include <iostream>
 #include <string>
