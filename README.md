@@ -12,3 +12,7 @@ DesignPattern
 * 简单工厂模式(SimpleFactory)
 
 * 工厂模式(Factory)
+
+* 抽象工厂模式(AbstractFactory)
+
+* 单例模式(Singleton)
